@@ -1,0 +1,25 @@
+h2{
+    font-family: 'Rubik Gemstones', cursive;
+}
+p,h3,h4{
+    font-family: 'Caramel', cursive;
+    font-size: 32px;
+}
+body {
+    background-color:cyan;
+
+}
+.header_div{
+    background: rgb(107, 107, 243);
+    color:rgb(42, 226, 164);
+}
+.copy_right_footer{
+    position:fixed;
+    color:deepskyblue;
+    bottom:0;
+    width:100%;
+    font-size: 18px;
+    background-color:midnightblue;
+    line-height:3;
+    text-align: center;
+}
